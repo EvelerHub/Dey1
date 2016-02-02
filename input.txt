@@ -1,0 +1,13 @@
+front
+push_front 123
+push_front 12
+push_back 13
+front
+back
+size
+push_back 5
+clear
+pop_back
+push_front 6
+size
+exit
