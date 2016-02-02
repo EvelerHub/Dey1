@@ -1,13 +1,1 @@
-error
-ok
-ok
-ok
-12
-13
-3
-ok
-ok
-error
-ok
-1
-bye
+90.000000
