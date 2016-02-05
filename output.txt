@@ -1,1 +1,6 @@
-90.000000
+act
+atc
+cat
+cta
+tac
+tca
